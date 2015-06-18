@@ -51,8 +51,8 @@ return array(
 				'google-oauth' => array(
 					// register your app here: https://code.google.com/apis/console/
 					'class' => 'GoogleOAuthService',
-					'client_id' => '',
-					'client_secret' => '',
+					'client_id' => '728495032288-723ophbnfca7fons1rs4se2485qsf9um.apps.googleusercontent.com',
+					'client_secret' => 'f-YOhdqaRSdg8OfUJRhk-ca2',
 					'title' => 'Google (OAuth2)',
 				),
 				'yandex' => array(
@@ -69,8 +69,8 @@ return array(
 				'twitter' => array(
 					// register your app here: https://dev.twitter.com/apps/new
 					'class' => 'TwitterOAuthService',
-					'key' => '',
-					'secret' => '',
+					'key' => 'RzKdGR8LJkzANoECFLiTUhbba',
+					'secret' => 'Iylyk8H4laRP1Pu0Vtar2L3HFhfwWUM8Vo2k89VCGT7GEySdYC',
 				),
 				'linkedin' => array(
 					// register your app here: https://www.linkedin.com/secure/developer
